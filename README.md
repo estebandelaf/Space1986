@@ -11,3 +11,10 @@ puede hacer usando SDL recordando aquella versión del 2005.
 
 Para que sea un poco más interesante la experiencia decidí hacerlo con C++ y
 SDL2 (en el 2005 usé C y SDL1).
+
+Requerimientos
+--------------
+
+Debian GNU/Linux:
+
+    # apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev
